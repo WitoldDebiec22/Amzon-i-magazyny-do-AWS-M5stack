@@ -1,0 +1,1 @@
+# Amzon-i-magazyny-do-AWS-M5stack
